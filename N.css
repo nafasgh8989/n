@@ -1,3 +1,11 @@
+/* add the color  */
+.root{
+    --purple-color:#4a31ae;
+    --yellow-color:#ffc857;
+    --pale-purple-color:#e6e0ff;
+    --cream-color:#fff3e0;
+    --white-color:#fff;
+}
 /* container */
 .container{
     display: grid;
