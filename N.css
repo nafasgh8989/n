@@ -1,0 +1,14 @@
+/* container */
+.container{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(14, 1fr);
+    gap: 25px;
+}
+/* select the all div in the container  */
+.container div{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+}
