@@ -74,6 +74,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 /* add a img and changes such as width and height */
 .gg1{
