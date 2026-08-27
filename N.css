@@ -207,3 +207,72 @@ body {
     left:140px ;
     bottom:150px ;
 }
+/* responsive dising  */
+@media screen and (max-width:500px) {
+    .container{
+    display: flex;
+    flex-direction: column;
+    }
+    .container div{
+    width: 300px;
+    padding: 15px;
+    }
+   .gg1{
+    top: 50px;
+    right: 10px;
+    width: 170px;
+   }
+   .gg3{
+    top: 120px;
+   }
+   .gg4{
+    top: 7px;
+    width: 130px;
+    height: 115px;
+   }
+   .gg5{
+    width: 210px;
+    left: 120px;
+    top: 50px;
+   }
+   .gg6{
+    width: 170px;
+    height: 70px;
+    right: 8px;
+   }
+   .gg7{
+    left: 70px;
+   }
+   .gg8{
+    width: 270px;
+    height: 230px;
+    right: 100px;
+    padding-left: 30px;
+   }
+   .g1{
+    font-size: 25px;
+   }
+   .g2{
+    font-size: 40px;
+   }
+   .g3{
+    font-size: 25px;
+   }
+   .g4{
+    font-size: 25px;
+   }
+   .g5{
+    font-size: 25px;
+   }
+   .g8{
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 25px;
+   }
+  .f{
+    left: 90px;
+    bottom: 135px;
+  }
+  
+}
